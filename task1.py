@@ -13,3 +13,4 @@ class Home:
 a = Home()
 a.add()
 a.add()
+a.add()
