@@ -1,5 +1,5 @@
-#Тестовый проект
+# Тестовый проект
 
-## Написан на языке PYTHON
+## Язык программирования
 
-[ссылка на репозиторий] (https://github.com/ZHMESHNECK/project1)
+[ссылка на репозиторий](https://github.com/ZHMESHNECK/project1)
