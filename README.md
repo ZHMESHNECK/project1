@@ -4,4 +4,5 @@
 
 - PYTHON
 
-[ссылка на репозиторий](https://github.com/ZHMESHNECK/project1)
+[Где я учусь?](https://kiev.itstep.org/ru)
+[А так же тут](https://nau.edu.ua/)
